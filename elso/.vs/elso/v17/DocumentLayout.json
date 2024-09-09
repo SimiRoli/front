@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\SimonRoland\\Desktop\\frontend\\elso\\",
+  "WorkspaceRootPath": "C:\\Users\\SimonRoland\\Desktop\\frontend\\front\\elso\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BAEA15A3-BD49-48E0-8C4D-A422148BD4BD}|Igen\\Igen.csproj|c:\\users\\simonroland\\desktop\\frontend\\elso\\igen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BAEA15A3-BD49-48E0-8C4D-A422148BD4BD}|Igen\\Igen.csproj|c:\\users\\simonroland\\desktop\\frontend\\front\\elso\\igen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAEA15A3-BD49-48E0-8C4D-A422148BD4BD}|Igen\\Igen.csproj|solutionrelative:igen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAEA15A3-BD49-48E0-8C4D-A422148BD4BD}|Igen\\Igen.csproj|c:\\users\\simonroland\\desktop\\frontend\\elso\\igen\\ananasz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BAEA15A3-BD49-48E0-8C4D-A422148BD4BD}|Igen\\Igen.csproj|C:\\Users\\SimonRoland\\Desktop\\frontend\\front\\elso\\igen\\ananasz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAEA15A3-BD49-48E0-8C4D-A422148BD4BD}|Igen\\Igen.csproj|solutionrelative:igen\\ananasz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,22 +28,21 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ananasz.cs",
-              "DocumentMoniker": "C:\\Users\\SimonRoland\\Desktop\\frontend\\elso\\Igen\\ananasz.cs",
+              "DocumentMoniker": "C:\\Users\\SimonRoland\\Desktop\\frontend\\front\\elso\\Igen\\ananasz.cs",
               "RelativeDocumentMoniker": "Igen\\ananasz.cs",
-              "ToolTip": "C:\\Users\\SimonRoland\\Desktop\\frontend\\elso\\Igen\\ananasz.cs",
+              "ToolTip": "C:\\Users\\SimonRoland\\Desktop\\frontend\\front\\elso\\Igen\\ananasz.cs",
               "RelativeToolTip": "Igen\\ananasz.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T09:43:01.24Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T09:43:01.24Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\SimonRoland\\Desktop\\frontend\\elso\\Igen\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\SimonRoland\\Desktop\\frontend\\front\\elso\\Igen\\Program.cs",
               "RelativeDocumentMoniker": "Igen\\Program.cs",
-              "ToolTip": "C:\\Users\\SimonRoland\\Desktop\\frontend\\elso\\Igen\\Program.cs",
+              "ToolTip": "C:\\Users\\SimonRoland\\Desktop\\frontend\\front\\elso\\Igen\\Program.cs",
               "RelativeToolTip": "Igen\\Program.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
