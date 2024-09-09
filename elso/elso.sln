@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Igen", "Igen\Igen.csproj", "{BAEA15A3-BD49-48E0-8C4D-A422148BD4BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAEA15A3-BD49-48E0-8C4D-A422148BD4BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAEA15A3-BD49-48E0-8C4D-A422148BD4BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAEA15A3-BD49-48E0-8C4D-A422148BD4BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAEA15A3-BD49-48E0-8C4D-A422148BD4BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A4D2846-3BC8-498A-B143-3B4D4CA98B07}
+	EndGlobalSection
+EndGlobal
