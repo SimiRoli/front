@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Egyszerű szövegmegjelenítő</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: rgb(255, 216, 0);
+        }
+        .container {
+            width: 120px;
+            justify-content: center;
+            text-align: center;
+            border-radius: 25px;
+            border: 2px solid rgb(255, 0, 0);
+        }
+        input[type="text"] {
+            font-size: 18px;
+            padding: 10px;
+            margin: 10px;
+            width: 300px;
+            border-radius: 20px;
+        }
+        button {
+            font-size: 18px;
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 20px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        .message {
+            margin-top: 20px;
+            font-size: 20px;
+            font-style: italic;
+            color: #007BFF;
+        }
+        .footer{
+            background-color: black;
+            text-align: center;
+            position: fixed;
+            left: 0;
+            bottom: 0;
+            width: 100%;          
+            color: white;
+            padding: 10px;
+            
+        }
+        header{
+            background-color: red;
+            padding: 20px;
+            text-align: center;
+            font-size: 15px;
+            color: white;
+            left: 0;
+            bottom: 0;
+            top: 0;
+            width: 100%;
+        }
+        .navbar{
+            overflow: hidden;
+            display: block;
+            top: 0;
+            position: fixed;
+        }
+        .navbar p {
+            text-align: center;
+            float: right;
+            font-size: large;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="navbar">
+            <p>-Elött-</p>
+            <p>-Fejléc-</p>
+            <p>-Után-</p>
+          </div>
+    </header>
+
+<div class="container">
+    <h2>Írj be egy szöveget:</h2>
+    <input type="text" id="userInput" placeholder="Írd ide a szöveget...">
+    <br>
+    <button onclick="showMessage()">Megjelenítés</button>
+    <div id="message" class="message"></div>
+</div>
+
+
+
+
+
+
+
+
+
+<script>
+    function showMessage() {
+        const input = document.getElementById('userInput').value;
+        document.getElementById('message').innerText = input;
+    }
+</script>
+
+<footer class="footer">
+        <p>Lábléc</p>
+</footer>
+
+</body>
+</html>
